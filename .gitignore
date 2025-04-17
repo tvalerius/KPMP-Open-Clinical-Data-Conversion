@@ -1,3 +1,10 @@
+
+# Ignore data files
+OpenAccessClinicalData/
+clinical_metadata_kpmp_20250415.h5ad
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
