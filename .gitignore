@@ -2,6 +2,8 @@
 # Ignore data files
 OpenAccessClinicalData/
 clinical_metadata_kpmp_20250415.h5ad
+*.png
+*.h5ad
 
 
 
